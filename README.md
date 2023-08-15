@@ -1,3 +1,3 @@
 # covid-analyzer
 
-![Screenshot](https://github.com/AnsumanMishra-git/covid-analyzer/blob/main/Screenshot.png)
+![Screenshot](https://drive.google.com/file/d/1Nt55GqsUy9UR2KJiYGSYCUzBDnE1v3AU/view?usp=sharing)

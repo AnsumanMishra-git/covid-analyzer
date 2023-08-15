@@ -18,6 +18,6 @@ The COVID-19 Analysis Power BI project is designed to help users gain a better u
 5. Pie Chart for Total Cases, Deaths, and Recovered: A pie chart visualization that represents the distribution of total COVID-19 cases among total deaths, recovered cases, and active cases.  
 
 ## Usage  
-1. Data Refresh: The project is connected to a data source (e.g., a CSV file or an online data repository). To keep the data up to date, you can configure data refresh settings in Power BI.  
+1. Data Refresh: The project is connected to a data source ([covidData](https://www.worldometers.info/coronavirus/)). To keep the data up to date, configure data refresh settings in Power BI.  
 
 2. Interact with Visualizations: Use the provided slicer to select a specific country. Explore the various cards and the pie chart by interacting with them. Hover over elements for additional details.  
